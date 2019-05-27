@@ -16,7 +16,11 @@ The iPad's 10-inch screen was "the minimum size required to create great tablet 
 
 "I'm not convinced people want to watch movies on a tiny little screen. To paraphrase Bill Clinton, 'It's the music, stupid, it's the music!' Music's been around for a long time, will continue to be, it's huge." - 2003
 
+"We told them the music subscription services they were pushing were going to fail. MusicNet was gonna fail. Pressplay was gonna fail. Here’s why: People don’t want to buy their music as a subscription. They bought 45s, then they bought LPs, they bought cassettes, they bought 8-tracks, then they bought CDs. They’re going to want to buy downloads." -Rolling Stone, 2003
+
 "Is the web going to be a life-changing event for millions of people? No. I mean, maybe. But it's not an assured yes at this point. And it'll probably creep up on people." - Steve Jobs, Wired 1996
+
+"You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new. It took us three years to build the NeXT computer. If we'd given customers what they said they wanted, we'd have built a computer they'd have been happy with a year after we spoke to them—not something they'd want now." - Steve Jobs, Inc. Magazine, 1989
 
 "Most of the new, innovative companies are focusing on the software. I think there will be lots of innovation in the areas of software but not in hardware." - Steve Jobs, Playboy 1983
 
