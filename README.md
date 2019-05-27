@@ -10,7 +10,7 @@ The iPad's 10-inch screen was "the minimum size required to create great tablet 
 
 There will be no third-party iPhone apps, only web-apps. "The full Safari engine is inside of iPhone. And so, you can write amazing Web 2.0 and Ajax apps that look exactly and behave exactly like apps on the iPhone. And these apps can integrate perfectly with iPhone services. They can make a call, they can send an email, they can look up a location on Google Maps. And guess what? There’s no SDK that you need! You’ve got everything you need if you know how to write apps using the most modern web standards to write amazing apps for the iPhone today. So developers, we think we’ve got a very sweet story for you. You can begin building your iPhone apps today." - Steve Jobs 2007
 
-"Who wants a stylus?" Jobs said while introducing the iPhone. "You have to get 'em, put 'em away, you lose 'em. Yuch! Nobody wants a stylus. So let's not use a stylus." -2007
+"Who wants a stylus?" Jobs said while introducing the iPhone. "You have to get 'em, put 'em away, you lose 'em. Yuck! Nobody wants a stylus. So let's not use a stylus." -2007
 
 "There are no plans to make a tablet. It turns out people want keyboards... We look at the tablet, and we think it is going to fail." - 2003
 
