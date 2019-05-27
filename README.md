@@ -4,7 +4,7 @@ The iPad's 10-inch screen was "the minimum size required to create great tablet 
 
 "It’s like we said on the iPad, if you see a stylus, they blew it," -2010
 
-"I think there's going to be two kinds of devices in the music space. One is going to be just the pure evolved music device. People want it for music, maybe music videos, maybe occasional movie, but they really want it for music," - Steve Jobs, [The Wall Street Journal 2008](https://www.wsj.com/articles/the-mobile-industrys-never-seen-anything-like-this-an-interview-with-steve-jobs-at-the-app-stores-launch-1532527201)
+"I think there's going to be two kinds of devices in the music space. One is going to be just the pure evolved music device. People want it for music, maybe music videos, maybe occasional movie, but they really want it for music," - Steve Jobs, The Wall Street Journal 2008
 
 "We don't know how to make a $500 computer that's not a piece of junk." - October 2008, the iPad (1st generation) base-model was $499
 
